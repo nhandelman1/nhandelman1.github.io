@@ -1,3 +1,57 @@
+title: Nicholas Handelman GitHub Page
+author: Nicholas Handelman
+email: nhandelman1@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+baseurl: "/nhandelman1.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# social links
+github_username:  nhandelman1
+facebook_username: nick.handelman
+linkedin_username: nickhandelman
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.html
+ - contact.md
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,38 +67,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nicholas Handelman
-email: nhandelman1@gmail.com
 #show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-show_downloads: true
+#show_downloads: true
 
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "/nhandelman1.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  nhandelman1
-facebook_username: nick.handelman
-linkedin_username: nickhandelman
-#twitter_username: jekyllrb
-#dribbble_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
-#rss: rss
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-minima
-plugins:
-  - jekyll-feed
-
-header_pages:
-  - about.md
-  - contact.md
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
