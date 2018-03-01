@@ -10,8 +10,8 @@ baseurl: "/nhandelman1.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
-github_username:  nhandelman1
 facebook_username: nick.handelman
+github_username:  nhandelman1
 linkedin_username: nickhandelman
 # dribbble_username: jekyll
 # facebook_username: jekyll
