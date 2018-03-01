@@ -28,7 +28,7 @@ github_username:  nhandelman1
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-tactile
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
