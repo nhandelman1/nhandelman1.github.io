@@ -25,6 +25,16 @@ show_downloads: true
 baseurl: "/nhandelman1.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nhandelman1
+facebook_username: nick.handelman
+linkedin_username: nickhandelman
+#twitter_username: jekyllrb
+#dribbble_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#rss: rss
 
 # Build settings
 markdown: kramdown
