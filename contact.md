@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 ### Email
 <nhandelman1@gmail.com>  
-<nrhandelman@mc.edu>
+<nicholas.handelman@stonybrook.edu>
 
 ### Social Media
 [Facebook](https://www.facebook.com/nick.handelman)  
