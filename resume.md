@@ -97,10 +97,10 @@ Handelman, Nicholas, and Donald R. Schwartz. "MathFax: An Online Adaptation of t
 
 ## Awards
 May 2011: Master's Fellowship - University of Louisiana at Lafayette  
-Awarded by the University of Louisiana in Lafayette, Louisiana. Covered tuition and most fees, and provided a monthly stipend for one year.  
-May 2011: Outstanding Computer Science Student  
-Awarded to a graduating computer science major as selected by the Department of Computer Science at Millsaps College  
-May 2011: Outstanding Computer Science Senior Project  
+Awarded by the University of Louisiana in Lafayette, Louisiana. Covered tuition and most fees, and provided a monthly stipend for one year.    
+May 2011: Outstanding Computer Science Student - Millsaps College
+Awarded to a graduating computer science major as selected by the Department of Computer Science at Millsaps College    
+May 2011: Outstanding Computer Science Senior Project - Millsaps College
 Awarded to graduating computer science major(s) as selected by the Department of Computer Science at Millsaps College
 
 ## Extracurricular Activites
