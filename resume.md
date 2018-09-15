@@ -5,6 +5,16 @@ permalink: /resume/
 ---
 
 ## Education
+
+### [State University of New York, Stony Brook](https://www.stonybrook.edu/)
+August 2018 - May 2020
+[M.S. Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/)
+[Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php)
+
+[AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php)
+
+2018: Introduction to Probability, Analytical Methods for Applied Mathematics and Statistics, Foundation of Quantitative Finance, Data Analysis I
+
 ### [Mississippi College](http://www.mc.edu)
 January 2015 - May 2018  
 [M.S. Mathematics](https://www.mc.edu/academics/departments/math/graduate-programs#mathematics-ms)  
