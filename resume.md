@@ -103,7 +103,7 @@ Handelman, Nicholas, and Donald R. Schwartz. "MathFax: An Online Adaptation of t
 
 ## Awards
 
-May 2020: Award of Honor for Outstanding Academic Excellence - [State University of New York, Stony Brook](https://www.stonybrook.edu/)
+May 2020: Award of Honor for Outstanding Academic Excellence - [State University of New York, Stony Brook](https://www.stonybrook.edu/)  
 Awarded to graduating M.S. Applied Mathematics and Statistics students with at least a 3.8 GPA.
 
 May 2011: [Master's Fellowship](https://gradschool.louisiana.edu/assistantships-fellowships-funding/fellowships) - 
