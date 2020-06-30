@@ -9,7 +9,7 @@ permalink: /resume/
 ### [State University of New York, Stony Brook](https://www.stonybrook.edu/)
 August 2018 - May 2020  
 [M.S. Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/)  
-[Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php)
+[Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php)  
 GPA: 3.87
 
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php)
