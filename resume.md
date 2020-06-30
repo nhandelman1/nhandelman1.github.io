@@ -82,7 +82,7 @@ Senior Seminar: Project focused on robotic hardware and autonomous programming. 
 
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1)
 
-May 2019 - Present
+May 2019 - Present  
 Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/bio/michael-tiano_copy) 
 
 * FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documentation from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
