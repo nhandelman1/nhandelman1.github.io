@@ -85,7 +85,7 @@ Senior Seminar: Project focused on robotic hardware and autonomous programming. 
 May 2019 - Present  
 Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/bio/michael-tiano_copy) 
 
-* FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documentation from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
+* FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documents from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
 * For invested funds, the analysts each use Excel to report risk metrics. I've nearly completed a Mathematica application to replace the existing Excel risk monitors.   
 * I build other Mathematica applications as requested by Dr. Tiano. 
 
