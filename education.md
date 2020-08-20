@@ -23,21 +23,33 @@ Bayesian Methods in Finance: Likelihood and Bayes Theorem, Applications in Regre
 ##### Computational Finance
 Random Number Generation and Sampling, Monte Carlo Methods and Variance Reduction, Option Pricing, Classification, Neyman-Pearson Region  
 
-Statistical Methods in Finance: Multivariate Distributions, Markowitz Portfolio Theory, CAPM and Regression, Factor Analysis, Portfolio Optimization  
+##### Statistical Methods in Finance
+Multivariate Distributions, Markowitz Portfolio Theory, CAPM and Regression, Factor Analysis, Portfolio Optimization  
 
-Advanced Stochastic Models and Risk Assessment and Portfolio Optimization: Data Cleaning and Processing, Coherent Risk Measures, Mixture Distributions, Covariance Matrix and MCD, Factor Analysis and EM Algorithm, Shrinkage Estimates and Denoising for Mean Vector and Covariance Matrix, Markov Chain and Hidden Markov Model, Time Series  
+##### Advanced Stochastic Models and Risk Assessment and Portfolio Optimization
+Data Cleaning and Processing, Coherent Risk Measures, Mixture Distributions, Covariance Matrix and MCD, Factor Analysis and EM Algorithm, Shrinkage Estimates and Denoising for Mean Vector and Covariance Matrix, Markov Chain and Hidden Markov Model, Time Series  
 
-Capital Market and Portfolio Theory: Markowitz Portfolio Theory, Univariate and Multivariate Distributions, Mixture Distributions and Copulas, Extreme Event Models, CAPM, Factor Models, Working with Missing Data, In Sample vs. Out of Sample Results, Drawdown Models  
+##### Capital Market and Portfolio Theory
+Markowitz Portfolio Theory, Univariate and Multivariate Distributions, Mixture Distributions and Copulas, Extreme Event Models, CAPM, Factor Models, Working with Missing Data, In Sample vs. Out of Sample Results, Drawdown Models  
 
-Financial Derivatives and Stochastic Calculus:
-Mathematics of High Frequency Finance:
-Risk Measures for Finance and Data Analysis:
+##### Financial Derivatives and Stochastic Calculus
+Probability, Brownian Motion and Geometric Brownian Motion, Stochastic Calculus, Bionmial Option Pricing, Risk Neutral Pricing, Black Scholes, Bond Pricing, Path Dependent Options
+
+##### Mathematics of High Frequency Finance
+In depth look into Linear Algebra, Matrices and Applications
+
+##### Risk Measures for Finance and Data Analysis
+Gaussian and Levy Processes with Jumps, ARMA-GARCH, Interest Rate Models and Bond Pricing
 
 #### 2018  
-Introduction to Probability
-Analytical Methods for Applied Mathematics and Statistics:
-Foundation of Quantitative Finance:
-Data Analysis I:
+##### Introduction to Probability
+
+##### Analytical Methods for Applied Mathematics and Statistics
+
+##### Foundation of Quantitative Finance
+Broad overview of quantitative finance including basic financial concepts; Markowitz Portfolio Theory, CAPM  and Portfolio Optimization; risk measures, fixed income pricing, forwards and futures pricing; stochastic calculus, Black Scholes and options pricing  
+
+##### Data Analysis I
 
 ### [Mississippi College](http://www.mc.edu){:target="_blank"}
 January 2015 - May 2018  
