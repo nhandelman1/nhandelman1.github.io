@@ -46,7 +46,7 @@ Summer 2011
 Apr 2011 - July 2011
 Software Engineering Project Assistant
 
-* I worked with [Dr. Donald Schwarz](https://www.marist.edu/computer-science-math/faculty/donald-schwartz){:target="_blank"} on developing, testing, documenting and deploying educational software for a local elementary school. The software, MathFax, is based on the arithmetic learning game Math Facts.
+* I worked with [Dr. Donald Schwarz](https://www.marist.edu/computer-science-math/faculty/donald-schwartz){:target="_blank"} on developing, testing, documenting and deploying PHP-based educational software for a local elementary school. The software, MathFax, is based on the arithmetic learning game Math Facts.
 * I was a co-author and presenter for a paper on the software at [FECS 2011](https://americancse.org/events/csce2020/conferences/fecs20){:target="_blank"}
 
 Aug 2010 - May 2011
