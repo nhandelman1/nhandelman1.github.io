@@ -65,7 +65,7 @@ May 2011 - June 2011
 
 August 2007 - May 2011  
 B.S. Computer Science (now defunct)  
-Professors that have relocated include: [Dr. Donald Schwarz](http://www.marist.edu/compscimath/facviewer.html?uid=439){:target="_blank"}, [Dr. William Bares](http://compsci.cofc.edu/about/faculty-staff-listing/bares-william.php){:target="_blank"} and [Dr. Anne Applin](https://www.smccme.edu/faculty-profiles/){:target="_blank"}.
+Professors that have relocated include: [Dr. Donald Schwarz](https://www.marist.edu/computer-science-math/faculty/donald-schwartz){:target="_blank"}, [Dr. William Bares](http://blogs.cofc.edu/bareswh/){:target="_blank"} and [Dr. Anne Applin](https://www.smccme.edu/faculty-profiles/){:target="_blank"}.
 
 2011: Database Management, Theory and Design of Operating Systems, Discrete Structures, Management Information Systems  
 Senior Seminar: Project focused on robotic hardware and autonomous programming. The platform I used is [Vex Robotics](https://www.vexrobotics.com/){:target="_blank"}.
