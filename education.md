@@ -8,11 +8,11 @@ permalink: /education/
 
 ### [State University of New York, Stony Brook](https://www.stonybrook.edu/){:target="_blank"}
 August 2018 - May 2020  
-[M.S. Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/)  
-[Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php)  
+[M.S. Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/){:target="_blank"}  
+[Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php){:target="_blank"}  
 GPA: 3.87
 
-[AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php)
+[AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
 2020: Quantitative Risk Management, Bayesian Methods in Finance
 
@@ -21,13 +21,13 @@ Computational Finance, Statistical Methods in Finance, Advanced Stochastic Model
 
 2018: Introduction to Probability, Analytical Methods for Applied Mathematics and Statistics, Foundation of Quantitative Finance, Data Analysis I
 
-### [Mississippi College](http://www.mc.edu)
+### [Mississippi College](http://www.mc.edu){:target="_blank"}
 January 2015 - May 2018  
-[M.S. Mathematics](https://www.mc.edu/academics/departments/math/graduate-programs#mathematics-ms)  
+[M.S. Mathematics](https://www.mc.edu/academics/departments/math/graduate-programs#mathematics-ms){:target="_blank"}  
 GPA: 3.93
 
-[Mathematics Courses](http://catalog.mc.edu/mime/media/32/1215/2017-2018+GRADUATE+CATALOG.pdf#page=153)  
-[Finance Courses](http://business.mc.edu/mba/courses/#fin)
+[Mathematics Courses](http://catalog.mc.edu/mime/media/32/1215/2017-2018+GRADUATE+CATALOG.pdf#page=153){:target="_blank"}  
+[Finance Courses](http://business.mc.edu/mba/courses/#fin){:target="_blank"}
 
 2018: Partial Differential Equations, Statistical Data Analysis, Intro to Numerical Methods
 
@@ -39,13 +39,13 @@ Applied Mathematical Problem Solving: We derived many of the formulas used in lo
 
 2015: Linear Algebra, Mathematical Modeling, Modern Geometry, Business Finance, Investments, Advanced Calculus 
 
-### [University of Louisiana at Lafayette](https://louisiana.edu/)
+### [University of Louisiana at Lafayette](https://louisiana.edu/){:target="_blank"}
 August 2011 - May 2013  
-[M.S. Computer Science](https://computing.louisiana.edu/node/66)  
+[M.S. Computer Science](https://computing.louisiana.edu/node/66){:target="_blank"}  
 GPA 3.53
 
-[Computer Science Courses](http://catalog.louisiana.edu/content.php?filter[27]=CSCE&filter[29]=&filter[course_type]=-1&filter[keyword]=&filter[32]=1&filter[cpage]=1&cur_cat_oid=5&expand=&navoid=1053&search_database=Filter#acalog_template_course_filter)  
-[Mathematics Courses](http://catalog.louisiana.edu/content.php?filter%5B27%5D=MATH&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=5&expand=&navoid=1053&search_database=Filter#acalog_template_course_filter)
+[Computer Science Courses](http://catalog.louisiana.edu/content.php?filter[27]=CSCE&filter[29]=&filter[course_type]=-1&filter[keyword]=&filter[32]=1&filter[cpage]=1&cur_cat_oid=5&expand=&navoid=1053&search_database=Filter#acalog_template_course_filter){:target="_blank"}  
+[Mathematics Courses](http://catalog.louisiana.edu/content.php?filter%5B27%5D=MATH&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=5&expand=&navoid=1053&search_database=Filter#acalog_template_course_filter){:target="_blank"}
 
 2013: Principles of Computer Communications and Networks, Principles of Operating System Theory, Graduate Seminar
 Special Project: I worked with Dr. Tony Maida to develop a simulation to represent action potential propagation along an axon. 
@@ -54,21 +54,21 @@ Special Project: I worked with Dr. Tony Maida to develop a simulation to represe
 
 2011: Programming Languages, Design and Analysis of Algorithms, Principles of Computer Graphics, Linear Algebra, Graduate Seminar
 
-### [Holmes Community College](http://www.holmescc.edu/)
+### [Holmes Community College](http://www.holmescc.edu/){:target="_blank"}
 
 May 2011 - June 2011  
-[Mathematics](http://www.holmescc.edu/departments/academic/mathematics_computer_science/index.aspx), Non-Degree
+[Mathematics](http://www.holmescc.edu/departments/academic/mathematics_computer_science/index.aspx){:target="_blank"}, Non-Degree
 
 2011: Calculus 3, Calculus 4
 
-### [Millsaps College](http://www.millsaps.edu/)
+### [Millsaps College](http://www.millsaps.edu/){:target="_blank"}
 
 August 2007 - May 2011  
 B.S. Computer Science (now defunct)  
-Professors that have relocated include: [Dr. Donald Schwarz](http://www.marist.edu/compscimath/facviewer.html?uid=439), [Dr. William Bares](http://compsci.cofc.edu/about/faculty-staff-listing/bares-william.php) and [Dr. Anne Applin](https://www.smccme.edu/faculty-profiles/).
+Professors that have relocated include: [Dr. Donald Schwarz](http://www.marist.edu/compscimath/facviewer.html?uid=439){:target="_blank"}, [Dr. William Bares](http://compsci.cofc.edu/about/faculty-staff-listing/bares-william.php){:target="_blank"} and [Dr. Anne Applin](https://www.smccme.edu/faculty-profiles/){:target="_blank"}.
 
 2011: Database Management, Theory and Design of Operating Systems, Discrete Structures, Management Information Systems  
-Senior Seminar: Project focused on robotic hardware and autonomous programming. The platform I used is [Vex Robotics](https://www.vexrobotics.com/).
+Senior Seminar: Project focused on robotic hardware and autonomous programming. The platform I used is [Vex Robotics](https://www.vexrobotics.com/){:target="_blank"}.
 
 2010: Organic Chemistry 2, Data Structures and Algorithms, Multimedia Principles and Design, Software Engineering, Multimedia Systems and Applications, Computer Ethics, Senior Seminar, Principles of Economics, Intro to Advanced Math
 
