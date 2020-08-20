@@ -15,7 +15,7 @@ GPA: 3.87
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
 #### 2020  
-Quantitative Risk Management:  Risk Measures, Multivariate Distributions, PCA and Factor Analysis,  Time Series, Copulas, Correlation  
+Quantitative Risk Management:  Risk Measures, Multivariate Distributions, PCA and Factor Analysis,  Time Series, Copulas, Correlation    
 Bayesian Methods in Finance: Likelihood and Bayes Theorem, Applications in Regression, Numerical Computation and Portfolio Allocation  
 
 #### 2019  
