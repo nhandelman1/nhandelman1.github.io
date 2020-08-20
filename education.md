@@ -15,44 +15,44 @@ GPA: 3.87
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
 #### 2020  
-##### Quantitative Risk Management
+**Quantitative Risk Management**
 Risk Measures, Multivariate Distributions, PCA and Factor Analysis,  Time Series, Copulas, Correlation  
 
-##### Bayesian Methods in Finance
+**Bayesian Methods in Finance**
 Likelihood and Bayes Theorem, Applications in Regression, Numerical Computation and Portfolio Allocation  
 
 #### 2019  
-##### Computational Finance
+**Computational Finance**
 Random Number Generation and Sampling, Monte Carlo Methods and Variance Reduction, Option Pricing, Classification, Neyman-Pearson Region  
 
-##### Statistical Methods in Finance
+**Statistical Methods in Finance**
 Multivariate Distributions, Markowitz Portfolio Theory, CAPM and Regression, Factor Analysis, Portfolio Optimization  
 
-##### Advanced Stochastic Models and Risk Assessment and Portfolio Optimization
+**Advanced Stochastic Models and Risk Assessment and Portfolio Optimization**
 Data Cleaning and Processing, Coherent Risk Measures, Mixture Distributions, Covariance Matrix and MCD, Factor Analysis and EM Algorithm, Shrinkage Estimates and Denoising for Mean Vector and Covariance Matrix, Markov Chain and Hidden Markov Model, Time Series  
 
-##### Capital Market and Portfolio Theory
+**Capital Market and Portfolio Theory**
 Markowitz Portfolio Theory, Univariate and Multivariate Distributions, Mixture Distributions and Copulas, Extreme Event Models, CAPM, Factor Models, Working with Missing Data, In Sample vs. Out of Sample Results, Drawdown Models  
 
-##### Financial Derivatives and Stochastic Calculus
+**Financial Derivatives and Stochastic Calculus**
 Probability, Brownian Motion and Geometric Brownian Motion, Stochastic Calculus, Bionmial Option Pricing, Risk Neutral Pricing, Black Scholes, Bond Pricing, Path Dependent Options
 
-##### Mathematics of High Frequency Finance
+**Mathematics of High Frequency Finance**
 In depth look into Linear Algebra, Matrices and Applications
 
-##### Risk Measures for Finance and Data Analysis
+**Risk Measures for Finance and Data Analysis**
 Gaussian and Levy Processes with Jumps, ARMA-GARCH, Interest Rate Models and Bond Pricing
 
 #### 2018  
-##### Introduction to Probability
+**Introduction to Probability**
 
-##### Analytical Methods for Applied Mathematics and Statistics
+**Analytical Methods for Applied Mathematics and Statistics**
 Logic, Linear Algebra, Matrix Analysis, Limits, Convergence, Multivariate Calculus
 
-##### Foundation of Quantitative Finance
+**Foundation of Quantitative Finance**
 Basic Financial Concepts; Markowitz Portfolio Theory, CAPM and Portfolio Optimization; Risk Measures, Fixed Income Pricing, Forwards and Futures Pricing; Stochastic Calculus, Black Scholes and Options Pricing  
 
-##### Data Analysis I
+**Data Analysis I**
 Collecting and Exploring Data, Inference on Large and Small Samples and One or Two Samples, Multiple Linear Regression and Diagnostics, Non-Parametric Methods 
 
 ### [Mississippi College](http://www.mc.edu){:target="_blank"}
