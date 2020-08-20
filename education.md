@@ -6,7 +6,7 @@ permalink: /education/
 
 ## Education
 
-### [State University of New York, Stony Brook](https://www.stonybrook.edu/)
+### [State University of New York, Stony Brook](https://www.stonybrook.edu/){:target="_blank"}
 August 2018 - May 2020  
 [M.S. Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/)  
 [Quantitative Finance Track](https://www.stonybrook.edu/commcms/ams/graduate/qf/index.php)  
