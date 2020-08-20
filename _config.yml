@@ -42,7 +42,7 @@ header_pages:
  - categories.html
  - education.md
  - experience.md
- - resume.md
+ - misc.md
  - contact.md
  
 # Build settings
