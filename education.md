@@ -14,7 +14,9 @@ GPA: 3.87
 
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
-2020: Quantitative Risk Management, Bayesian Methods in Finance
+2020:  
+  Quantitative Risk Management:  
+  Bayesian Methods in Finance:
 
 2019: Capital Market and Portfolio Theory, Financial Derivatives and Stochastic Calculus, Mathematics of High Frequency Finance, Risk Measures for Finance and Data Analysis,
 Computational Finance, Statistical Methods in Finance, Advanced Stochastic Models and Risk Assessment and Portfolio Optimization
@@ -26,8 +28,8 @@ January 2015 - May 2018
 [M.S. Mathematics](https://www.mc.edu/academics/departments/math/graduate-programs#mathematics-ms){:target="_blank"}  
 GPA: 3.93
 
-[Mathematics Courses](http://catalog.mc.edu/mime/media/32/1215/2017-2018+GRADUATE+CATALOG.pdf#page=153){:target="_blank"}  
-[Finance Courses](http://business.mc.edu/mba/courses/#fin){:target="_blank"}
+[Mathematics Courses](https://www.mc.edu/academics/departments/math/courses/graduate){:target="_blank"}  
+[Finance Courses](https://business.mc.edu/mba/course-descriptions){:target="_blank"}
 
 2018: Partial Differential Equations, Statistical Data Analysis, Intro to Numerical Methods
 
