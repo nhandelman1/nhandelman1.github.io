@@ -15,14 +15,14 @@ GPA: 3.87
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
 #### 2020  
-Quantitative Risk Management:  
-Bayesian Methods in Finance:
+Quantitative Risk Management:  Risk Measures, Multivariate Distributions, PCA and Factor Analysis,  Time Series, Copulas, Correlation  
+Bayesian Methods in Finance: Likelihood and Bayes Theorem, Applications in Regression, Numerical Computation and Portfolio Allocation  
 
 #### 2019  
-Computational Finance:
-Statistical Methods in Finance:
-Advanced Stochastic Models and Risk Assessment and Portfolio Optimization:
-Capital Market and Portfolio Theory:
+Computational Finance: Random Number Generation and Sampling, Monte Carlo Methods and Variance Reduction, Option Pricing, Classification, Neyman-Pearson Region  
+Statistical Methods in Finance: Multivariate Distributions, Markowitz Portfolio Theory, CAPM and Regression, Factor Analysis, Portfolio Optimization  
+Advanced Stochastic Models and Risk Assessment and Portfolio Optimization: Data Cleaning and Processing, Coherent Risk Measures, Mixture Distributions, Covariance Matrix and MCD, Factor Analysis and EM Algorithm, Shrinkage Estimates and Denoising for Mean Vector and Covariance Matrix, Markov Chain and Hidden Markov Model, Time Series  
+Capital Market and Portfolio Theory: Markowitz Portfolio Theory, Univariate and Multivariate Distributions, Mixture Distributions and Copulas, Extreme Event Models, CAPM, Factor Models, Working with Missing Data, In Sample vs. Out of Sample Results, Drawdown Models  
 Financial Derivatives and Stochastic Calculus:
 Mathematics of High Frequency Finance:
 Risk Measures for Finance and Data Analysis:
