@@ -47,11 +47,13 @@ Gaussian and Levy Processes with Jumps, ARMA-GARCH, Interest Rate Models and Bon
 ##### Introduction to Probability
 
 ##### Analytical Methods for Applied Mathematics and Statistics
+Logic, Linear Algebra, Matrix Analysis, Limits, Convergence, Multivariate Calculus
 
 ##### Foundation of Quantitative Finance
-Broad overview of quantitative finance including basic financial concepts; Markowitz Portfolio Theory, CAPM  and Portfolio Optimization; risk measures, fixed income pricing, forwards and futures pricing; stochastic calculus, Black Scholes and options pricing  
+Basic Financial Concepts; Markowitz Portfolio Theory, CAPM and Portfolio Optimization; Risk Measures, Fixed Income Pricing, Forwards and Futures Pricing; Stochastic Calculus, Black Scholes and Options Pricing  
 
 ##### Data Analysis I
+Collecting and Exploring Data, Inference on Large and Small Samples and One or Two Samples, Multiple Linear Regression and Diagnostics, Non-Parametric Methods 
 
 ### [Mississippi College](http://www.mc.edu){:target="_blank"}
 January 2015 - May 2018  
