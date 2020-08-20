@@ -26,24 +26,50 @@ Software Developer - Customer Applications Department
 * At least once each year, I traveled to a retail store to see how the store representatives used our software. I also helped prepare new stores for opening.
 * Programming languages, frameworks and other technology used: Java SE and EE (5, 6, 7), Javascript, CSS, HTML, Google Web Toolkit, Apache Struts, Maven, JUnit, Oracle, JSON, REST, SOAP, Jenkins CI
 
-### [Center for Advanced Computer Studies](https://computing.louisiana.edu/computer-sciences/center-advanced-computer-studies)
+### [Center for Advanced Computer Studies](https://computing.louisiana.edu/computer-sciences/center-advanced-computer-studies){:target="_blank"}
 
 June 2012 - May 2013
 Research and Teaching Assistant
 
-* In Spring 2013, I worked under [Dr. Tony Maida](https://people.cmix.louisiana.edu/maida/) to modify a simulation for action potential propagation along an axon. This work involved proofreading two book chapters on which the simulation was based.
-* From Aug 2012 - May 2013, I was a teaching assistant under Dr. Jim Etheredge and [Frank Ducrest](https://people.cmix.louisiana.edu/ducrest/) for CMPS 260: Introduction to C++
-* From June 2012 - Aug 2012, I assisted Dr. Suresh Golconda and the United States Geological Survey on adapting biological simulations for use in distributed and GPU computing environments
+* In Spring 2013, I worked under [Dr. Tony Maida](https://people.cmix.louisiana.edu/maida/){:target="_blank"} to modify a Java-based simulation for action potential propagation along an axon. This work involved proofreading two book chapters on which the simulation was based.
+* From Aug 2012 - May 2013, I was a teaching assistant under Dr. Jim Etheredge and [Frank Ducrest](https://people.cmix.louisiana.edu/ducrest/){:target="_blank"} for CMPS 260: Introduction to C++
+* From June 2012 - Aug 2012, I assisted Dr. Suresh Golconda and the United States Geological Survey on adapting Java-based biological simulations for use in distributed and GPU computing environments
 
-### [Gilliam Law Firm](https://www.gilliamfirm.com/)
+### [Gilliam Law Firm](https://www.gilliamfirm.com/){:target="_blank"}
 
 Summer 2011
 
 * Performed routine website upgrades for the firm
 
-### [Millsaps College](http://www.millsaps.edu/)
+### [Millsaps College](http://www.millsaps.edu/){:target="_blank"}
+
+Apr 2011 - July 2011
+Software Engineering Project Assistant
+
+* I worked with [Dr. Donald Schwarz](https://www.marist.edu/computer-science-math/faculty/donald-schwartz){:target="_blank"} on developing, testing, documenting and deploying educational software for a local elementary school. The software, MathFax, is based on the arithmetic learning game Math Facts.
+* I was a co-author and presenter for a paper on the software at [FECS 2011](https://americancse.org/events/csce2020/conferences/fecs20){:target="_blank"}
 
 Aug 2010 - May 2011
 Senior Project
 
-* This project focused on robotic hardware and autonomous programming using [Vex Robotics](https://www.vexrobotics.com/){:target="_blank"}
+* This project focused on robotic hardware and autonomous programming using the [Vex Robotics](https://www.vexrobotics.com/){:target="_blank"} platform
+* I presented the project to a school-wide symposium and the computer science department during the spring semester
+
+Feb 2010 - May 2011
+[IT Department](http://www.millsaps.edu/resources/information-technology-services.php){:target="_blank"} - Student Hardware Technician
+
+* Cleaning viruses and malware off of and updating staff and faculty computers
+* Maintaining computer labs on campus
+
+### Little Tokyo Japanese Restaurant - Jackson, MS
+
+August 2005 - May 2010
+
+* Started as a busboy and dishwasher
+* Promoted to Teppanyaki chef after completing training in the restaurant
+
+### Brookshire's Grocery Store - Ridgeland, MS
+
+June 2005 - August 2005
+
+* Courtesy Clerk (aka Bag Boy)
