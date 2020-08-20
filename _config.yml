@@ -40,6 +40,8 @@ minima:
 header_pages:
  - about.md
  - categories.html
+ - education.md
+ - experience.md
  - resume.md
  - contact.md
  
