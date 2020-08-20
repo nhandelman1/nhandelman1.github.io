@@ -20,7 +20,8 @@ Quantitative Risk Management:  Risk Measures, Multivariate Distributions, PCA an
 Bayesian Methods in Finance: Likelihood and Bayes Theorem, Applications in Regression, Numerical Computation and Portfolio Allocation  
 
 #### 2019  
-Computational Finance: Random Number Generation and Sampling, Monte Carlo Methods and Variance Reduction, Option Pricing, Classification, Neyman-Pearson Region  
+##### Computational Finance
+Random Number Generation and Sampling, Monte Carlo Methods and Variance Reduction, Option Pricing, Classification, Neyman-Pearson Region  
 
 Statistical Methods in Finance: Multivariate Distributions, Markowitz Portfolio Theory, CAPM and Regression, Factor Analysis, Portfolio Optimization  
 
