@@ -14,7 +14,7 @@ GPA: 3.87
 
 [AMS Courses](https://www.stonybrook.edu/commcms/ams/graduate/offerings.php){:target="_blank"}
 
-2020:  
+#### 2020:  
   Quantitative Risk Management:  
   Bayesian Methods in Finance:
 
