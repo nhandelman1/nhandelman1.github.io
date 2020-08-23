@@ -53,6 +53,7 @@ These are languages or software I've studied or worked with in the past, but wou
 
 * Matlab/Octave: Used on small numerical methods and probability distribution related projects within the past few years.
 * R: Used on a few simple time series analysis projects for school in the past 2 years.
+* MT5/MQL5: Worked on a forex trading project with a local trader from Oct 2018 - Nov 2018
 * Excel: Fairly simple financial applications for school over the years. Worked with Excel Solver for Optimization. Honestly, never used a pivot table though.
 * VBA/Access: In 2011, wrote a small VBA/Access project to mimic a checking account as a personal project.
 * Minitab: One semester of statistical analysis in school, for uses ranging from one sample tests, to multiple regression and diagnostics, to non parametric methods.
