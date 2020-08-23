@@ -19,15 +19,15 @@ Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/b
 Oct 2018 - Nov 2018  
 Part Time Programmer
 
-* MT5/MQL5 forex trading project
-* Unable to continue work due to class load
+* I worked with a local trader on an MT5/MQL5 forex trading project.
+* Unable to continue work due to time constraints and class load.
 
 ### [Cspire Wireless Communications](http://www.cspire.com/){:target="_blank"}
 
 September 2013 - June 2016  
 Software Developer - Customer Applications Department
 
-* I designed, implemented and maintained inventory control and point-of-sale software. The inventory control software was developed using [Apache Struts](http://struts.apache.org/){:target="_blank"} but was a mature project when I started at the company. I only performed minor work on this software. The point-of-sale software was a mostly mature [Google Web Toolkit](http://www.gwtproject.org/){:target="_blank"} project.  I spent the majority of my time working on this software, either fixing bugs or adding new functionality.
+* I designed, implemented and maintained inventory control and point-of-sale software. The inventory control software was developed using [Apache Struts](http://struts.apache.org/){:target="_blank"} but was a mature project when I started at the company. I only performed minor work on this software. The point-of-sale software was a mostly mature [Google Web Toolkit](http://www.gwtproject.org/){:target="_blank"} project. I spent the majority of my time working on this software, either fixing bugs or adding new functionality.
 * Employees throughout the business use our software. Part of my job was to assist them if they had questions or needed help.
 * At least once each year, I traveled to a retail store to see how the store representatives used our software. I also helped prepare new stores for opening.
 * Programming languages, frameworks and other technology used: Java SE and EE (5, 6, 7), Javascript, CSS, HTML, Google Web Toolkit, Apache Struts, Maven, JUnit, Oracle, JSON, REST, SOAP, Jenkins CI
