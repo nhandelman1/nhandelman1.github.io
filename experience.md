@@ -4,8 +4,6 @@ title: Experience
 permalink: /experience/
 ---
 
-## Experience
-
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
 May 2019 - Present  
