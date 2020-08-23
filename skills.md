@@ -31,7 +31,7 @@ Strengths:
 
 Weaknesses: 
 * 2 years out of practice
-* little experience beyoned Java 7
+* little experience beyond Java 7
 * little experience with scientific, distributed and parallel computing
 
 ### Python
