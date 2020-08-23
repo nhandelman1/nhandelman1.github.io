@@ -14,6 +14,11 @@ Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/b
 * For invested funds, the analysts each use Excel to report risk metrics. I completed a fully testable Mathematica application to replace the existing Excel risk monitors.   
 * I build other Mathematica applications as requested by Dr. Tiano. 
 
+### [Glimm Analytics](https://glimmanalytics.com/){:target="_blank"}
+
+Feb 2019 - May 2019  
+Part Time Intern under [Dr. James Glimm](https://glimmanalytics.com/team/){:target="_blank"}
+
 ### Glotex
 
 Oct 2018 - Nov 2018  
