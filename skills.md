@@ -49,7 +49,7 @@ Through 2013, I was about as experienced with C++ as I was with Java, enough so 
 
 ### Others
 
-These are languages or software I've worked with in the past, but would consider my experience or current familiarity very much entry level at best.
+These are languages or software I've studied or worked with in the past, but would consider my experience or current familiarity very much entry level at best.
 
 * Matlab/Octave: Used on small numerical methods and probability distribution related projects within the past few years.
 * R: Used on a few simple time series analysis projects for school in the past 2 years.
