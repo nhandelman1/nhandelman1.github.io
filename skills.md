@@ -12,12 +12,27 @@ Two skills, common to all other skills and probably the most important of all, a
 
 ### Software Development and Programming
 
-In 2008 as a freshman at Millsaps College, I wrote my first program (Hello World, of course) in Java. Since then, I've been consistently programming in one language or another, either for work, school or personal projects. As listed below, I have experience, to differing extents, with a number of languages. While I do have preferences, I have yet to run into a language I would absolutely refuse to work with. Admittedly, PHP is my least favorite, and I have yet to see industrial scale COBOL software. 
+In 2008 as a freshman at Millsaps College, I wrote my first program (Hello World, of course) in Java. Since then, I've been consistently programming in one language or another, either for work, school or personal projects. As listed below, I have experience, to differing extents, with a number of languages. I have yet to run into a language I would absolutely refuse to work with. Admittedly, PHP is my least favorite, and I have yet to see industrial scale COBOL software. My favorites are Java and Python.
+
+#### Software Development
+
+
+
 
 #### Java
 
-By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments. 
+By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. After a month or two of review of the language and frameworks and work with newer releases, I would be comfortable working in a mid-level position. 
 
+Versions and frameworks: Java SE and EE (5,6,7), Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP
+
+Strengths: 
+* 10 years experience in industrial, academic, and personal environments
+* Work in industry both front and back end and infrastructure and customer facing applications
+
+Weaknesses: 
+* 2 years out of practice
+* little experience beyoned Java 7
+* little experience with scientific, distributed and parallel computing
 
 #### Python
 
