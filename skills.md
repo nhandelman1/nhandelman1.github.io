@@ -41,7 +41,20 @@ Weaknesses:
 #### Mathematica
 
 
+#### SQL
+
+#### C++ 
+
+Through 2013, I was about as experienced with C++ as I was with Java, enough so that I taught it to students as an assistant. I've worked with it very little since then though. It is widely used in quantitative finance and would certainly be a great skill for me to have, but I decided to focus on Python.
 
 #### Others
 
-C++, VBA/Excel, PHP, COBOL, R, Matlab, Javascript, SQL, C#/.NET
+These are languages or software I've worked with in the past, but would consider my experience or current familiarity very much entry level at best.
+
+* Matlab/Octave
+* VBA/Excel
+* R
+* Javascript
+* Minitab
+* PHP
+* COBOL
