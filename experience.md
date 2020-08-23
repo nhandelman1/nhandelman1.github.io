@@ -14,6 +14,14 @@ Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/b
 * For invested funds, the analysts each use Excel to report risk metrics. I completed a fully testable Mathematica application to replace the existing Excel risk monitors.   
 * I build other Mathematica applications as requested by Dr. Tiano. 
 
+### Glotex
+
+Oct 2018 - Nov 2018  
+Part Time Programmer
+
+* MT5/MQL5 forex trading project
+* Unable to continue work due to class load
+
 ### [Cspire Wireless Communications](http://www.cspire.com/){:target="_blank"}
 
 September 2013 - June 2016  
