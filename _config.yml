@@ -42,7 +42,7 @@ header_pages:
  - education.md
  - experience.md
  - misc.md
- - software dev.md
+ - software_dev.md
  - contact.md
  
 # Build settings
