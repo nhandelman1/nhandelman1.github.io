@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Skills
-permalink: /skills/
+title: Software Development
+permalink: /software_dev/
 ---
 
 ## Overview
