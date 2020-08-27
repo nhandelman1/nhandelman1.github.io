@@ -47,7 +47,7 @@ Research and Teaching Assistant
 
 * In Spring 2013, I worked under [Dr. Tony Maida](https://people.cmix.louisiana.edu/maida/){:target="_blank"} to modify a Java-based simulation for action potential propagation along an axon. This work involved proofreading two book chapters on which the simulation was based.
 * From Aug 2012 - May 2013, I was a teaching assistant under Dr. Jim Etheredge and [Frank Ducrest](https://people.cmix.louisiana.edu/ducrest/){:target="_blank"} for CMPS 260: Introduction to C++
-* From June 2012 - Aug 2012, I assisted Dr. Suresh Golconda and the United States Geological Survey on adapting Java-based biological simulations for use in distributed and GPU computing environments
+* From June 2012 - Aug 2012, I assisted [Dr. Suresh Golconda](https://www.linkedin.com/in/suresh-golconda/){:target="_blank"} and the United States Geological Survey on adapting Java-based biological simulations for use in distributed and GPU computing environments
 
 ### [Gilliam Law Firm](https://www.gilliamfirm.com/){:target="_blank"}
 
