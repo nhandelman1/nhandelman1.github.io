@@ -21,7 +21,7 @@ Two skills, common to all other skills and probably the most important of all, a
 
 By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. It isn't as widely used as Python in quantitative finance, so I have chosen to use Python over Java for recent school and personal projects. After a month or two of review of the language and frameworks and work with newer releases, I would be comfortable working in a mid-level position. 
 
-Versions and technology: Java SE and EE (5,6,7), Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP
+Versions and technology: Java SE and EE (5,6,7), IntelliJ IDE, Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP, JavaFX, MySQL
 
 Strengths: 
 * 10 years experience in industrial, academic, and personal environments
@@ -36,7 +36,7 @@ Weaknesses:
 
 I started with Python in Fall 2019 for a school project, and I've used it for a few school, work and personal projects since then. It has proven quite easy to learn. I did not use a formal tutorial to learn it though, so I'm still picking up on the "pythonic" coding style.
 
-Versions and technology: Python (3.7 and 3.8), PyQt5, requests, numpy, pandas, statsmodels, scipy, matplotlib
+Versions and technology: Python (3.7 and 3.8), PyCharm IDE, PyQt5, requests, numpy, pandas, statsmodels, scipy, matplotlib, MySQL
 
 Strengths:
   * Currently using Python for personal and work projects, so my mind is attuned to it.
@@ -47,6 +47,17 @@ Weaknesses:
 
 ## Wolfram Mathematica
 
+Before coming to Stony Brook, I was aware of Wolfram Alpha but not Wolfram's underlying technology. So, I was a bit unprepared when Mathematica showed up in Dr. Frey's Foundations of Quantitative Finance class in Fall 2018. The learning curve was steep, but after working with it for 2 years through school and work at FQS, I've become comfortable with it.
+
+Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation 
+
+Strengths:
+ * 2 years experience
+ * Vectorization instead of loops
+ 
+Weaknesses:
+ * Haven't worked with many of Mathematica's built in features
+
 
 ## SQL
 
@@ -54,7 +65,7 @@ Weaknesses:
 
 ## C++ 
 
-Through 2013, I was about as experienced with C++ as I was with Java, enough so that I taught it to students as an assistant. I've worked with it very little since then though. It is widely used in quantitative finance and would certainly be a great skill for me to have, but I decided to focus on Python.
+Through 2013, I was about as experienced with C++ as I was with Java, enough so that I taught it to students as an assistant. I've only used it on a few small class projects since then though. It is widely used in quantitative finance and would certainly be a great skill for me to have, but I've decided to focus on Python.
 
 ## Others
 
