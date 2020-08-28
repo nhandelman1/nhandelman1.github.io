@@ -21,7 +21,7 @@ Two skills, common to all other skills and probably the most important of all, a
 
 By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. It isn't as widely used as Python in quantitative finance, so I have chosen to use Python over Java for recent school and personal projects. After a month or two of review of the language and frameworks and work with newer releases, I would be comfortable working in a mid-level position. 
 
-Versions and frameworks: Java SE and EE (5,6,7), Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP
+Versions and technology: Java SE and EE (5,6,7), Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP
 
 Strengths: 
 * 10 years experience in industrial, academic, and personal environments
@@ -29,17 +29,28 @@ Strengths:
 
 Weaknesses: 
 * 2 years out of practice
-* little experience beyond Java 7
-* little experience with scientific, distributed and parallel computing
+* Little experience beyond Java 7
+* Little experience with scientific, distributed and parallel computing
 
 ## Python
 
+I started with Python in Fall 2019 for a school project, and I've used it for a few school, work and personal projects since then. It has proven quite easy to learn. I did not use a formal tutorial to learn it though, so I'm still picking up on the "pythonic" coding style.
 
+Versions and technology: Python (3.7 and 3.8), PyQt5, requests, numpy, pandas, statsmodels, scipy, matplotlib
 
-## Mathematica
+Strengths:
+  * Currently using Python for personal and work projects, so my mind is attuned to it.
+  
+Weaknesses:
+  * 1 year experience and only small projects
+  * Have not seen or worked with any large scale applications
+
+## Wolfram Mathematica
 
 
 ## SQL
+
+
 
 ## C++ 
 
