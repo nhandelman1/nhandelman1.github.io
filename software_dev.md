@@ -49,7 +49,7 @@ Weaknesses:
 
 Before coming to Stony Brook, I was aware of Wolfram Alpha but not Wolfram's underlying technology. So, I was a bit unprepared when Mathematica showed up in Dr. Frey's Foundations of Quantitative Finance class in Fall 2018. The learning curve was steep, but after working with it for 2 years through school and work at FQS, I've become comfortable with it.
 
-Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation 
+Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation, web scraping
 
 Strengths:
  * 2 years experience through school and work
