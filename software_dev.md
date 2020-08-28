@@ -52,7 +52,7 @@ Before coming to Stony Brook, I was aware of Wolfram Alpha but not Wolfram's und
 Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation 
 
 Strengths:
- * 2 years experience
+ * 2 years experience through school and work
  * Vectorization instead of loops
  
 Weaknesses:
