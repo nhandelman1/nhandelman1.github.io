@@ -21,7 +21,7 @@ Two skills, common to all other skills and probably the most important of all, a
 
 By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. It isn't as widely used as Python in quantitative finance, so I have chosen to use Python over Java for recent school and personal projects. After a month or two of review of the language and frameworks and work with newer releases, I would be comfortable working in a mid-level position. 
 
-Versions and technology: Java SE and EE (5,6,7), IntelliJ IDE, Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP, JavaFX, MySQL
+Versions and technology: Java SE and EE (5,6,7), IntelliJ IDE, Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP, JavaFX, MySQL, Hibernate
 
 Strengths: 
 * 10 years experience in industrial, academic, and personal environments
