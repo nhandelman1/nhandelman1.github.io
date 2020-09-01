@@ -8,7 +8,7 @@ permalink: /about/
 
 #### Short Version
 
-I am seeking employment as a quantitative analyst, quantitative developer, quantitative trader, software engineer or related role at a firm in the investing, banking or wider financial industry. These roles all combine software development, mathematics, finance and a challenging environment into one package.  
+I am seeking employment as an entry level quantitative analyst, quantitative developer, quantitative trader, software engineer or related role at a firm in the investing, banking or wider financial industry. These roles all combine software development, mathematics, finance and a challenging environment into one package.  
 
 #### Long(er) Version
 
