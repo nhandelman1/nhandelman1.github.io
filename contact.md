@@ -4,8 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 ### Email
-<nhandelman1@gmail.com>  
-<nicholas.handelman@stonybrook.edu>
+<nhandelman1@gmail.com>
 
 ### Social Media
 [Facebook](https://www.facebook.com/nick.handelman)  
