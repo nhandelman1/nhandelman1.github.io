@@ -4,9 +4,14 @@ title: Experience
 permalink: /experience/
 ---
 
+### [Pinz Capital Management (PCM)](https://www.linkedin.com/company/pinz-capital-management-llp/about/){:target="_blank"}
+
+Oct 2020 - Present  
+
+
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
-May 2019 - Present  
+May 2019 - Oct 2020  
 Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/bio/michael-tiano_copy){:target="_blank"}
 
 * FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documents from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
