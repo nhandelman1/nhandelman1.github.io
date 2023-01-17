@@ -8,6 +8,7 @@ permalink: /experience/
 
 Oct 2020 - Present  
 
+* PCM is a systematic alternative asset manager, with a market neutral strategy focusing on various liquidity events, including capital markets, index rebalancing and others. 
 
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
@@ -15,7 +16,7 @@ May 2019 - Oct 2020
 Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/bio/michael-tiano_copy){:target="_blank"}
 
 * FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documents from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
-* I am currently working on a Python REST API for connecting to financial data providers such as Alpha Vantage.
+* My last project was a Python REST API for connecting to financial data providers such as Alpha Vantage.
 * For invested funds, the analysts each use Excel to report risk metrics. I completed a fully testable Mathematica application to replace the existing Excel risk monitors.   
 * I build other Mathematica applications as requested by Dr. Tiano. 
 
