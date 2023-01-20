@@ -12,6 +12,8 @@ Quantitative Analyst
 * PCM is a systematic alternative asset manager, with a market neutral strategy focusing on various liquidity events, including capital markets, index rebalancing and others. 
 * Since PCM is a small firm, my duties were broad. Primarily, I developed full stack Python, R and C++ programs in support of operations, trading, execution,
 investment research and marketing. I compiled data and reports and provided assistance for our investors, administrators, prime brokers and other interested parties. I also maintained existing Python, R and C++ programs. 
+* I designed and developed a program to hedge factor risk, which I consider my best work and the most encompassing of quant skills. First, I used multiple regression of various style factor returns vs our portfolio returns to determine factor weights of our portfolio, and their significance. Next, if there were any significant factors, I used various criteria to determine stocks which would hedge the factor risk. These stocks are added to the portfolio and the previous steps are iterated until the hedged portfolio has no significant factors and meets other criteria, including market and sector neutrality. Finally, the program compiled an excel report detailing the steps in the process and included any issues the program encountered, particularly missing data. The program, written in python, involved interfacing with our OMS, Bloomberg and our proprietary database. I used statsmodels as the regression library. Ultimately, we intended to add this hedging strategy to our portfolio.
+*
 
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
