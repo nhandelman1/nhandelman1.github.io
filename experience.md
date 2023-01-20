@@ -7,8 +7,11 @@ permalink: /experience/
 ### [Pinz Capital Management (PCM)](https://www.linkedin.com/company/pinz-capital-management-llp/about/){:target="_blank"}
 
 Oct 2020 - Present  
+Quantitative Analyst  
 
 * PCM is a systematic alternative asset manager, with a market neutral strategy focusing on various liquidity events, including capital markets, index rebalancing and others. 
+* Since PCM is a small firm, my duties were broad. Primarily, I developed full stack Python, R and C++ programs in support of operations, trading, execution,
+investment research and marketing. I compiled data and reports and provided assistance for our investors, administrators, prime brokers and other interested parties. I also maintained existing Python, R and C++ programs. 
 
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
