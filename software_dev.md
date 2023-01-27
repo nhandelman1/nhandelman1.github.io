@@ -52,7 +52,7 @@ Versions and technology: 3.4+, RStudio IDE, DBI, dplyr, FactSet3, ggplot2, here,
 
 ## SQL
 
-
+Most of my experience is with MySQL, though I had some experience with PL/SQL at CSpire. I've created small databases for personal use and have designed and created linked tables in work environments. I use single table queries regularly and multi table queries occasionally. 
 
 ## C++ 
 
