@@ -14,12 +14,24 @@ Two skills, common to all other skills and probably the most important of all, a
 
 ## Software Development
 
+## Python
 
+I started with Python in Fall 2019 for a school project, and it has been my language of choice since then. I typically program in an object oriented style. While it takes longer to get a first draft of a program, I find it is easier to expand, maintain and test code written in this style.  
 
+Versions and technology: Python 3.6+, PyCharm IDE, PyQt5, requests, numpy, pandas, statsmodels, scipy, matplotlib, blpapi, mysql connector, openpyxl, paramiko, tabula, xlrd, smtplib, logging  
+
+Strengths: 
+  * Currently using Python for work and personal projects, so my mind is attuned to it 
+  * Experience with big data and pandas, numpy and statsmodels 
+  * Ready to be a individual and independent contributor to larger projects 
+  
+Weaknesses: 
+  * Lack of experience with distributed, high performance and parallel computing 
+  * Lack of experience with large scale applications 
 
 ## Java
 
-By far, I have the most experience with Java, having programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. It isn't as widely used as Python in quantitative finance, so I have chosen to use Python over Java for recent school and personal projects. After a month or two of review of the language and frameworks and work with newer releases, I would be comfortable working in a mid-level position. 
+I have the most experience with Java, though my experience is well out of date now. I programmed with it almost consistently from 2008 to 2018, in industrial, academic, and personal environments, front and back end with infrastructure and customer facing applications. Python is more common in quantitative finance, so I have chosen to use Python over Java for recent work, school and personal projects. 
 
 Versions and technology: Java SE and EE (5,6,7), IntelliJ IDE, Spring, Google Web Toolkit, Apache Struts, Maven, JUnit, REST, SOAP, JavaFX, MySQL, Hibernate
 
@@ -28,36 +40,15 @@ Strengths:
 * Work in industry both front and back end and infrastructure and customer facing applications
 
 Weaknesses: 
-* 2 years out of practice
+* Years out of practice
 * Little experience beyond Java 7
 * Little experience with scientific, distributed and parallel computing
 
-## Python
+## R
 
-I started with Python in Fall 2019 for a school project, and I've used it for a few school, work and personal projects since then. It has proven quite easy to learn. I did not use a formal tutorial to learn it though, so I'm still picking up on the "pythonic" coding style.
+In my current role, I maintain existing R code and add small features. These programs are all scripts that send reports through email.  
 
-Versions and technology: Python (3.7 and 3.8), PyCharm IDE, PyQt5, requests, numpy, pandas, statsmodels, scipy, matplotlib, MySQL
-
-Strengths:
-  * Currently using Python for personal and work projects, so my mind is attuned to it.
-  
-Weaknesses:
-  * 1 year experience and only small projects
-  * Have not seen or worked with any large scale applications
-
-## Wolfram Mathematica
-
-Before coming to Stony Brook, I was aware of Wolfram Alpha but not Wolfram's underlying technology. So, I was a bit unprepared when Mathematica showed up in Dr. Frey's Foundations of Quantitative Finance class in Fall 2018. The learning curve was steep, but after working with it for 2 years through school and work at FQS, I've become comfortable with it.
-
-Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation, web scraping
-
-Strengths:
- * 2 years experience through school and work
- * Vectorization instead of loops
- 
-Weaknesses:
- * Haven't worked with many of Mathematica's built in features
-
+Versions and technology: 3.4+, RStudio IDE, DBI, dplyr, FactSet3, ggplot2, here, httr, mailR, openxlsx, plotly, Rblpapi, RDCOMClient, readxl, rmarkdown, xlsx
 
 ## SQL
 
@@ -65,18 +56,23 @@ Weaknesses:
 
 ## C++ 
 
-Through 2013, I was about as experienced with C++ as I was with Java, enough so that I taught it to students as an assistant. I've only used it on a few small class projects since then though. It is widely used in quantitative finance and would certainly be a great skill for me to have, but I've decided to focus on Python.
+Through 2013, I was about as experienced with C++ as I was with Java, enough so that I taught it to students as an assistant. I've only used it on a few small class projects since then though. It is widely used in quantitative finance and would certainly be a great skill for me to have, but I've decided to focus on Python. Recently I've had exposure through work to C++, updating existing code and developing a small MFC application.  
 
+## Wolfram Mathematica
+
+Before coming to Stony Brook, I was aware of Wolfram Alpha but not Wolfram's underlying technology. So, I was a bit unprepared when Mathematica showed up in Dr. Frey's Foundations of Quantitative Finance class in Fall 2018. The learning curve was steep, but after working with it for 2 years through school and work at FQS, I've become comfortable with it. 
+
+Versions and technology: Mathematica (11, 12), notebook, optimization, UI elements, financial computation, web scraping
+ 
 ## Others
 
 These are languages or software I've studied or worked with in the past, but would consider my experience or current familiarity very much entry level at best.
 
-* Matlab/Octave: Used on small numerical methods and probability distribution related projects within the past few years.
-* R: Used on a few simple time series analysis projects for school in the past 2 years.
-* MT5/MQL5: Worked on a forex trading project with a local trader from Oct 2018 - Nov 2018
-* Excel: Fairly simple financial applications for school over the years. Worked with Excel Solver for Optimization. Honestly, never used a pivot table though.
-* VBA/Access: In 2011, wrote a small VBA/Access project to mimic a checking account as a personal project.
-* Minitab: One semester of statistical analysis in school, for uses ranging from one sample tests, to multiple regression and diagnostics, to non parametric methods.
+* Matlab/Octave: Used on small numerical methods and probability distribution related projects within the past few years. 
+* MT5/MQL5: Worked on a forex trading project with a local trader from Oct 2018 - Nov 2018 
+* Excel: Fairly simple financial applications for school over the years. Worked with Excel Solver for Optimization. Honestly, never used a pivot table though. 
+* VBA/Access: In 2011, wrote a small VBA/Access project to mimic a checking account as a personal project. 
+* Minitab: One semester of statistical analysis in school, for uses ranging from one sample tests, to multiple regression and diagnostics, to non parametric methods. 
 * Javascript: Used partially in the MathFax project. It was also interspersed (much less than 1%) among the GWT Java software at CSpire. 
-* PHP: Primary language of the MathFax project. I worked with it at the end of that project's development.
+* PHP: Primary language of the MathFax project. I worked with it at the end of that project's development. 
 * COBOL: Studied for a few weeks during my Bachelor's degree out of personal interest. 
