@@ -6,13 +6,13 @@ permalink: /experience/
 
 ### [Pinz Capital Management (PCM)](https://www.linkedin.com/company/pinz-capital-management-llp/about/){:target="_blank"}
 
-Oct 2020 - Jan 2023  
+Oct 2020 - Present  
 Quantitative Analyst  
 
 * PCM is a systematic alternative asset manager, with a market neutral strategy focusing on various liquidity events, including capital markets, index rebalancing and others. 
 * Since PCM is a small firm, my duties were broad. Primarily, I developed full stack Python, R and C++ programs in support of operations, trading, model development,
 investment research and marketing. I compiled data and reports and provided assistance for our investors, administrators, prime brokers and other interested parties. I also maintained existing Python, R and C++ programs. 
-* I designed and developed a program to hedge factor risk, which I consider my best work and the most encompassing of quant skills. First, I used multiple regression of various style factor returns vs our portfolio returns to determine factor weights of our portfolio, and their significance. Next, if there were any significant factors, I used various criteria to determine stocks which would hedge the factor risk. These stocks are added to the portfolio and the previous steps are iterated until the hedged portfolio has no significant factors and meets other criteria, including market and sector neutrality. Finally, the program compiled an excel report detailing the steps in the process and included any issues the program encountered, particularly missing data. The program, written in python, involved interfacing with our OMS, Bloomberg and our proprietary database. I used statsmodels for the regression library. Ultimately, we intended to add this hedging strategy to our portfolio. 
+* I designed and developed a program to hedge factor risk, which I consider my best work and the most encompassing of quant skills. First, I used multiple regression of various style factor returns vs our portfolio returns to determine factor weights of our portfolio, and their significance. Next, if there were any significant factors, I used various criteria to determine stocks which would hedge the factor risk. These stocks are added to the portfolio and the previous steps are iterated until the hedged portfolio has no significant factors and meets other criteria, including market and sector neutrality. Finally, the program compiled an excel report detailing the steps in the process and included any issues the program encountered, particularly missing data. The program, written in Python, involved interfacing with our OMS, Bloomberg and our proprietary database. I used statsmodels for the regression library. We were testing the strategy through paper trading and addressing statistical and data issues, but the firm is closing down so we did not get the strategy into a live environment. 
 
 ### [FQS Capital Partners L.P.](https://www.fqscapital.com/index.htm#&panel1-1){:target="_blank"}
 
@@ -20,7 +20,7 @@ May 2019 - Oct 2020
 Full and Part Time Intern under [Dr. Michael Tiano](https://www.fqscapital.com/bio/michael-tiano_copy){:target="_blank"}
 
 * FQS is a hedge fund that invests in other hedge funds, so we receive pitch decks, factsheets and other documents from funds and other sources. As we receive these documents, I update our system, perform a statistical evaluation on promising candidates and report any that meet certain requirements.  
-* My last project was a Python REST API for connecting to financial data providers such as Alpha Vantage.
+* My last project was a Python program for connecting to financial data providers, such as Alpha Vantage, through REST APIs.
 * For invested funds, the analysts each use Excel to report risk metrics. I completed a fully testable Mathematica application to replace the existing Excel risk monitors.   
 * I build other Mathematica applications as requested by Dr. Tiano. 
 
